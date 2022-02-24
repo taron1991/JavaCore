@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testneww">
+    <test name="testneww">
+        <classes>
+            <class name="TasksOfStreamApiTest"/>
+        </classes>
+    </test> <!-- Test -->
+    <test name="Personal Loan">
+        <classes>
+            <class name="Test2"/>
+        </classes>
+    </test> <!-- Test -->
+    <test name="Home Loan">
+        <classes>
+            <class name="Test3"/>
+        </classes>
+    </test>
+</suite> <!-- Suite -->
