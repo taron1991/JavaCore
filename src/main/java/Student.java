@@ -2,6 +2,9 @@ import lombok.*;
 
 import java.util.List;
 
+/**
+* класс Студент с предметами
+**/
 @Data
 @Builder
 @AllArgsConstructor
