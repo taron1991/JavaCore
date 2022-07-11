@@ -6,6 +6,9 @@ import Airports.Flight;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+Класс терминал,который имеет список полетов,список самолетов,имя самого терминала
+**/
 public class Terminal {
     private List<Flight> flightList = new ArrayList<>();
     private List<Airplane> airplanesOnTheStop = new ArrayList<>();
