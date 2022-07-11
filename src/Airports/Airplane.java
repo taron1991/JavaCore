@@ -1,9 +1,9 @@
 package Airports;
 
 
-/*
-Класс самолет с сеттером и геттером
-*/
+/**
+*Класс самолет с сеттером и геттером
+**/
 public class Airplane {
     private String name;
 
