@@ -1,5 +1,8 @@
 import lombok.*;
 
+/**
+*Класс предмет с оценкой
+**/
 @Data
 @Builder
 @AllArgsConstructor
