@@ -4,6 +4,10 @@ import Airports.Airplane;
 
 import java.util.Date;
 
+
+/*
+Класс Полет,который имеет дату вылета,номер билета,енам(вылет или прилет),тип самолета,продолжительность полета
+*/
 public class Flight {
     private Date dateOfFlight;
     private String numberOfFlight;  //2 буквы и 4 цифры
